@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "title": "10 Easy Gardening Hacks to Make Your Garden Flourish Year-Round!",
+      "subtitle": "Simple tips for a thriving garden all year",
+      "date": "12th August 2022",
+      "imageUrl": "https://i.pinimg.com/474x/af/38/e0/af38e059fe3fbe249272866c0e668198.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Transform Your Backyard: 7 Creative Gardening Ideas for Every Space",
+      "subtitle": "Big ideas for gardens of any size",
+      "date": "18th January 2023",
+      "imageUrl": "https://i.pinimg.com/736x/d4/7b/59/d47b5920378d7b454b911bd7b83523f0.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Ultimate Guide to Growing Your Own Organic Garden at Home",
+      "subtitle": "Grow fresh, organic produce at home",
+      "date": "5th January 2025",
+      "imageUrl": "https://i.pinimg.com/736x/e6/ba/c9/e6bac981e18d93bfcf6cd301f9a6242a.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Gardening for Beginners: 5 Must-Know Tips to Start Your Green Journey",
+        "subtitle": "Start gardening with ease and success",
+        "date": "25th May 2025",
+        "imageUrl": "https://i.pinimg.com/736x/8f/ee/4f/8fee4f17971fb5a68bd1d1484858f0b0.jpg"
+      }
+  ]
+  
